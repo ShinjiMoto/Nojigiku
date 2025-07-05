@@ -24,20 +24,20 @@ fee4d41fddef............
 ........................
 ........................
 `</field><data>{"commentRefs":[],"fieldData":{"img":null}}</data></shadow></value></block></value><next><block type="variables_set" id="%E5)x~:!gad^|@fY[5(a"><field name="VAR" id=":zIj~:InN]O*-^8,O5v)">mySprite2</field><value name="VALUE"><shadow type="math_number" id="!06/n[aeoh5t^5i5+V5p"><field name="NUM">0</field></shadow><block type="spritescreate" id="Alcs1qAJla)T|R_=79:v"><value name="kind"><shadow type="spritekind" id="pp%iX83?JNbXNTD7;[JT"><field name="MEMBER">Player</field></shadow></value><value name="img"><shadow type="screen_image_picker" id=";jShP@Y(C0ON8qa{p-L["><field name="img">img`
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . 3 . . . . . . . . 
-. . . . . . . 3 . . . . . . . . 
-. . . . . . . 3 . . . . . . . . 
-. . . 3 3 3 3 3 3 . . . . . . . 
-. . 3 . . . . 3 . 3 . . . . . . 
-. . 3 . . . . 3 . 3 . . . . . . 
-. . 3 . . . . 3 . 3 3 3 . . . . 
-. . 3 3 3 3 3 3 3 3 . 3 3 . . . 
-. . . . . . . . 3 3 . . 3 3 . . 
-. . . . . . . . . . . . 3 3 . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
+. . . . . . . e e e e . . . . . 
+. . . . . e e 4 5 5 5 e e . . . 
+. . . . e 4 5 6 2 2 7 6 6 e . . 
+. . . e 5 6 6 7 2 2 6 4 4 4 e . 
+. . e 5 2 2 7 6 6 4 5 5 5 5 4 . 
+. e 5 6 2 2 8 8 5 5 5 5 5 4 5 4 
+. e 5 6 7 7 8 5 4 5 4 5 5 5 5 4 
+e 4 5 8 6 6 5 5 5 5 5 5 4 5 5 4 
+e 5 c e 8 5 5 5 4 5 5 5 5 5 5 4 
+e 5 c c e 5 4 5 5 5 4 5 5 5 e . 
+e 5 c c 5 5 5 5 5 5 5 5 4 e . . 
+e 5 e c 5 4 5 4 5 5 5 e e . . . 
+e 5 e e 5 5 5 5 5 4 e . . . . . 
+4 5 4 e 5 5 5 5 e e . . . . . . 
+. 4 5 4 5 5 4 e . . . . . . . . 
+. . 4 4 e e e . . . . . . . . . 
 `</field><data>{"commentRefs":[],"fieldData":{"img":null}}</data></shadow></value></block></value></block></next></block></statement></block></xml>
