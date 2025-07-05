@@ -24,6 +24,7 @@ fee4d41fddef............
 ........................
 ........................
 `</field><data>{"commentRefs":[],"fieldData":{"img":null}}</data></shadow></value></block></value><next><block type="variables_set" id="%E5)x~:!gad^|@fY[5(a"><field name="VAR" id=":zIj~:InN]O*-^8,O5v)">mySprite2</field><value name="VALUE"><shadow type="math_number" id="!06/n[aeoh5t^5i5+V5p"><field name="NUM">0</field></shadow><block type="spritescreate" id="Alcs1qAJla)T|R_=79:v"><value name="kind"><shadow type="spritekind" id="pp%iX83?JNbXNTD7;[JT"><field name="MEMBER">Player</field></shadow></value><value name="img"><shadow type="screen_image_picker" id=";jShP@Y(C0ON8qa{p-L["><field name="img">img`
+
 . . . . . . . . . . b 5 b . . . 
 . . . . . . . . . b 5 b . . . . 
 . . . . . . b b b b b b . . . . 
@@ -40,4 +41,5 @@ c b d c d 5 5 b 5 5 5 5 5 5 b .
 . . c b d d d d d 5 5 5 b b . . 
 . . . c c c c c c c c b b . . . 
 . . . . . . . . . . . . . . . . 
+
 `</field><data>{"commentRefs":[],"fieldData":{"img":null}}</data></shadow></value></block></value></block></next></block></statement></block></xml>
